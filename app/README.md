@@ -5,7 +5,3 @@ asdfas
 asfas
 
 asfas
-
-asdfafs
-
-asdf
